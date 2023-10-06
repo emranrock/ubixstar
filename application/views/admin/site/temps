@@ -1,0 +1,152 @@
+<div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Make Plans Section</h3>
+                            </div>
+
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][plans]" value="active" <?php if (isset($data['home_page']['plans']) && $data['home_page']['plans'] == 'active') {
+                                                                                                                echo 'checked';
+                                                                                                            } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][plans]" value="in-active" <?php if (!isset($data['home_page']['plans'])  || $data['home_page']['plans'] == '' || $data['home_page']['plans'] == 'in-active') {
+                                                                                                                    echo 'checked';
+                                                                                                                } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- /.box-body -->
+                        </div>
+
+                        <div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Services Section</h3>
+                            </div>
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][services]" value="active" <?php if (isset($data['home_page']['services']) && $data['home_page']['services'] == 'active') {
+                                                                                                                    echo 'checked';
+                                                                                                                } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][services]" value="in-active" <?php if (!isset($data['home_page']['services']) || $data['home_page']['services'] == '' || $data['home_page']['services'] == 'in-active') {
+                                                                                                                        echo 'checked';
+                                                                                                                    } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- /.box-body -->
+                        </div>
+
+                        <div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Make testimonial Section</h3>
+                            </div>
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][testimonial]" value="active" <?php if (isset($data['home_page']['services']) && $data['home_page']['testimonial'] == 'active') {
+                                                                                                                        echo 'checked';
+                                                                                                                    } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][testimonial]" value="in-active" <?php if (!isset($data['home_page']['services']) || $data['home_page']['testimonial'] == '' || $data['home_page']['testimonial'] == 'in-active') {
+                                                                                                                        echo 'checked';
+                                                                                                                    } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- /.box-body -->
+                        </div>
+
+
+                        <div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Make Contact Section</h3>
+                            </div>
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][contactus]" value="active" <?php if (isset($data['home_page']['contactus']) && $data['home_page']['contactus'] == 'active') {
+                                                                                                                    echo 'checked';
+                                                                                                                } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][contactus]" value="in-active" <?php if (!isset($data['home_page']['contactus']) || $data['home_page']['contactus'] == '' || $data['home_page']['contactus'] == 'in-active') {
+                                                                                                                        echo 'checked';
+                                                                                                                    } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Make Signals Section</h3>
+                            </div>
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][singnals]" value="active" <?php if (isset($data['home_page']['singnals']) && $data['home_page']['singnals'] == 'active') {
+                                                                                                                    echo 'checked';
+                                                                                                                } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][singnals]" value="in-active" <?php if (!isset($data['home_page']['singnals']) || $data['home_page']['singnals'] == '' || $data['home_page']['singnals'] == 'in-active') {
+                                                                                                                        echo 'checked';
+                                                                                                                    } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="box box-primary">
+                            <div class="box-header">
+                                <h3 class="box-title">Make About Section</h3>
+                            </div>
+                            <div class="box-body">
+                                <div class="form-group">
+                                    <label>
+                                        Active
+                                        <input type="radio" name="option[home_page][about]" value="active" <?php if (isset($data['home_page']['about']) && $data['home_page']['about'] == 'active') {
+                                                                                                                echo 'checked';
+                                                                                                            } ?>>
+                                    </label>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <label>
+                                        In-Active
+                                        <input type="radio" name="option[home_page][about]" value="in-active" <?php if (!isset($data['home_page']['about']) || $data['home_page']['about'] == '' || $data['home_page']['about'] == 'in-active') {
+                                                                                                                    echo 'checked';
+                                                                                                                } ?>>
+                                    </label>
+                                </div>
+                            </div>
+
+
+
+                        </div>
