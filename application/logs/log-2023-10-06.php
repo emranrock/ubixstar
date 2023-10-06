@@ -376,3 +376,351 @@ INFO - 2023-10-06 10:19:02 --> File loaded: E:\xampp\htdocs\ubixstar\application
 INFO - 2023-10-06 10:19:02 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/template.php
 INFO - 2023-10-06 10:19:02 --> Final output sent to browser
 DEBUG - 2023-10-06 10:19:02 --> Total execution time: 0.1465
+INFO - 2023-10-06 07:30:20 --> Config Class Initialized
+INFO - 2023-10-06 07:30:20 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:20 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:20 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:20 --> URI Class Initialized
+INFO - 2023-10-06 07:30:20 --> Router Class Initialized
+INFO - 2023-10-06 07:30:20 --> Output Class Initialized
+INFO - 2023-10-06 07:30:20 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:20 --> Input Class Initialized
+INFO - 2023-10-06 07:30:20 --> Language Class Initialized
+INFO - 2023-10-06 07:30:20 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:20 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:20 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:20 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:20 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:20 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:20 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:20 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:20 --> Controller Class Initialized
+INFO - 2023-10-06 11:00:20 --> Model "Global_Model" initialized
+INFO - 2023-10-06 11:00:20 --> Model "User_model" initialized
+INFO - 2023-10-06 11:00:20 --> Helper loaded: file_helper
+INFO - 2023-10-06 11:00:20 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/includes/sidebar.php
+INFO - 2023-10-06 11:00:20 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/includes/header.php
+INFO - 2023-10-06 11:00:21 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/dashboard.php
+INFO - 2023-10-06 11:00:21 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/includes/footer.php
+INFO - 2023-10-06 11:00:21 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\admin/template.php
+INFO - 2023-10-06 11:00:21 --> Final output sent to browser
+DEBUG - 2023-10-06 11:00:21 --> Total execution time: 0.8859
+INFO - 2023-10-06 07:30:24 --> Config Class Initialized
+INFO - 2023-10-06 07:30:24 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:24 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:24 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:24 --> URI Class Initialized
+DEBUG - 2023-10-06 07:30:24 --> No URI present. Default controller set.
+INFO - 2023-10-06 07:30:24 --> Router Class Initialized
+INFO - 2023-10-06 07:30:24 --> Output Class Initialized
+INFO - 2023-10-06 07:30:24 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:24 --> Input Class Initialized
+INFO - 2023-10-06 07:30:24 --> Language Class Initialized
+INFO - 2023-10-06 07:30:24 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:24 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:24 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:24 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:24 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:24 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:24 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:24 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:24 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:24 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:24 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\front/includes/header.php
+INFO - 2023-10-06 07:30:24 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\front/home_page.php
+INFO - 2023-10-06 07:30:24 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\front/includes/footer.php
+INFO - 2023-10-06 07:30:24 --> File loaded: E:\xampp\htdocs\ubixstar\application\views\front/home.php
+INFO - 2023-10-06 07:30:24 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:24 --> Total execution time: 0.2354
+INFO - 2023-10-06 07:30:26 --> Config Class Initialized
+INFO - 2023-10-06 07:30:26 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:26 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:26 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:26 --> URI Class Initialized
+INFO - 2023-10-06 07:30:26 --> Router Class Initialized
+INFO - 2023-10-06 07:30:26 --> Output Class Initialized
+INFO - 2023-10-06 07:30:26 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:26 --> Input Class Initialized
+INFO - 2023-10-06 07:30:26 --> Language Class Initialized
+INFO - 2023-10-06 07:30:26 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:26 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:26 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:26 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:26 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:26 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:26 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:26 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:26 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:26 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:26 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:26 --> Total execution time: 0.2725
+INFO - 2023-10-06 07:30:30 --> Config Class Initialized
+INFO - 2023-10-06 07:30:30 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:30 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:30 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:30 --> URI Class Initialized
+INFO - 2023-10-06 07:30:30 --> Router Class Initialized
+INFO - 2023-10-06 07:30:30 --> Output Class Initialized
+INFO - 2023-10-06 07:30:30 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:30 --> Input Class Initialized
+INFO - 2023-10-06 07:30:30 --> Language Class Initialized
+INFO - 2023-10-06 07:30:30 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:30 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:30 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:30 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:30 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:30 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:30 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:30 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:30 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:30 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:30 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:30 --> Total execution time: 0.1056
+INFO - 2023-10-06 07:30:32 --> Config Class Initialized
+INFO - 2023-10-06 07:30:32 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:32 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:32 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:32 --> URI Class Initialized
+INFO - 2023-10-06 07:30:32 --> Router Class Initialized
+INFO - 2023-10-06 07:30:32 --> Output Class Initialized
+INFO - 2023-10-06 07:30:32 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:32 --> Input Class Initialized
+INFO - 2023-10-06 07:30:32 --> Language Class Initialized
+INFO - 2023-10-06 07:30:32 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:32 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:32 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:32 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:32 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:32 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:32 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:32 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:32 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:32 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:32 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:32 --> Total execution time: 0.1048
+INFO - 2023-10-06 07:30:34 --> Config Class Initialized
+INFO - 2023-10-06 07:30:34 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:34 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:34 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:34 --> URI Class Initialized
+INFO - 2023-10-06 07:30:34 --> Router Class Initialized
+INFO - 2023-10-06 07:30:34 --> Output Class Initialized
+INFO - 2023-10-06 07:30:34 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:34 --> Input Class Initialized
+INFO - 2023-10-06 07:30:34 --> Language Class Initialized
+INFO - 2023-10-06 07:30:34 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:34 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:34 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:34 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:34 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:34 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:34 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:34 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:34 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:34 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:34 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:34 --> Total execution time: 0.1110
+INFO - 2023-10-06 07:30:37 --> Config Class Initialized
+INFO - 2023-10-06 07:30:37 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:37 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:37 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:37 --> URI Class Initialized
+INFO - 2023-10-06 07:30:37 --> Router Class Initialized
+INFO - 2023-10-06 07:30:37 --> Output Class Initialized
+INFO - 2023-10-06 07:30:37 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:37 --> Input Class Initialized
+INFO - 2023-10-06 07:30:37 --> Language Class Initialized
+INFO - 2023-10-06 07:30:37 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:37 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:37 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:37 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:37 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:37 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:37 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:37 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:37 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:37 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:37 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:37 --> Total execution time: 0.1008
+INFO - 2023-10-06 07:30:39 --> Config Class Initialized
+INFO - 2023-10-06 07:30:39 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:40 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:40 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:40 --> URI Class Initialized
+INFO - 2023-10-06 07:30:40 --> Router Class Initialized
+INFO - 2023-10-06 07:30:40 --> Output Class Initialized
+INFO - 2023-10-06 07:30:40 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:40 --> Input Class Initialized
+INFO - 2023-10-06 07:30:40 --> Language Class Initialized
+INFO - 2023-10-06 07:30:40 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:40 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:40 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:40 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:40 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:40 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:40 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:40 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:40 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:40 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:40 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:40 --> Total execution time: 0.1089
+INFO - 2023-10-06 07:30:42 --> Config Class Initialized
+INFO - 2023-10-06 07:30:42 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:42 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:42 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:42 --> URI Class Initialized
+INFO - 2023-10-06 07:30:42 --> Router Class Initialized
+INFO - 2023-10-06 07:30:42 --> Output Class Initialized
+INFO - 2023-10-06 07:30:42 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:42 --> Input Class Initialized
+INFO - 2023-10-06 07:30:42 --> Language Class Initialized
+INFO - 2023-10-06 07:30:42 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:42 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:42 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:42 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:42 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:42 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:42 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:42 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:42 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:42 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:42 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:42 --> Total execution time: 0.1078
+INFO - 2023-10-06 07:30:45 --> Config Class Initialized
+INFO - 2023-10-06 07:30:45 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:45 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:45 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:45 --> URI Class Initialized
+INFO - 2023-10-06 07:30:45 --> Router Class Initialized
+INFO - 2023-10-06 07:30:45 --> Output Class Initialized
+INFO - 2023-10-06 07:30:45 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:45 --> Input Class Initialized
+INFO - 2023-10-06 07:30:45 --> Language Class Initialized
+INFO - 2023-10-06 07:30:45 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:45 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:45 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:45 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:45 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:45 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:45 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:45 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:45 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:45 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:45 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:45 --> Total execution time: 0.1227
+INFO - 2023-10-06 07:30:48 --> Config Class Initialized
+INFO - 2023-10-06 07:30:48 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:48 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:48 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:48 --> URI Class Initialized
+INFO - 2023-10-06 07:30:48 --> Router Class Initialized
+INFO - 2023-10-06 07:30:48 --> Output Class Initialized
+INFO - 2023-10-06 07:30:48 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:48 --> Input Class Initialized
+INFO - 2023-10-06 07:30:48 --> Language Class Initialized
+INFO - 2023-10-06 07:30:48 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:48 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:48 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:48 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:48 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:48 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:48 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:48 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:48 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:48 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:48 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:48 --> Total execution time: 0.1256
+INFO - 2023-10-06 07:30:50 --> Config Class Initialized
+INFO - 2023-10-06 07:30:50 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:50 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:50 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:50 --> URI Class Initialized
+INFO - 2023-10-06 07:30:50 --> Router Class Initialized
+INFO - 2023-10-06 07:30:50 --> Output Class Initialized
+INFO - 2023-10-06 07:30:50 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:50 --> Input Class Initialized
+INFO - 2023-10-06 07:30:50 --> Language Class Initialized
+INFO - 2023-10-06 07:30:50 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:50 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:50 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:50 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:50 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:50 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:50 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:50 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:50 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:50 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:50 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:50 --> Total execution time: 0.1021
+INFO - 2023-10-06 07:30:52 --> Config Class Initialized
+INFO - 2023-10-06 07:30:52 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:52 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:52 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:52 --> URI Class Initialized
+INFO - 2023-10-06 07:30:52 --> Router Class Initialized
+INFO - 2023-10-06 07:30:52 --> Output Class Initialized
+INFO - 2023-10-06 07:30:52 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:52 --> Input Class Initialized
+INFO - 2023-10-06 07:30:52 --> Language Class Initialized
+INFO - 2023-10-06 07:30:52 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:52 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:52 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:52 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:52 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:52 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:52 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:52 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:52 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:52 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:52 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:52 --> Total execution time: 0.1093
+INFO - 2023-10-06 07:30:53 --> Config Class Initialized
+INFO - 2023-10-06 07:30:53 --> Hooks Class Initialized
+DEBUG - 2023-10-06 07:30:53 --> UTF-8 Support Enabled
+INFO - 2023-10-06 07:30:53 --> Utf8 Class Initialized
+INFO - 2023-10-06 07:30:53 --> URI Class Initialized
+INFO - 2023-10-06 07:30:53 --> Router Class Initialized
+INFO - 2023-10-06 07:30:53 --> Output Class Initialized
+INFO - 2023-10-06 07:30:54 --> Security Class Initialized
+DEBUG - 2023-10-06 07:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-06 07:30:54 --> Input Class Initialized
+INFO - 2023-10-06 07:30:54 --> Language Class Initialized
+INFO - 2023-10-06 07:30:54 --> Loader Class Initialized
+INFO - 2023-10-06 07:30:54 --> Helper loaded: url_helper
+INFO - 2023-10-06 07:30:54 --> Helper loaded: comm_helper
+INFO - 2023-10-06 07:30:54 --> Database Driver Class Initialized
+INFO - 2023-10-06 07:30:54 --> Email Class Initialized
+DEBUG - 2023-10-06 07:30:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2023-10-06 07:30:54 --> Session: Class initialized using 'files' driver.
+INFO - 2023-10-06 07:30:54 --> Helper loaded: form_helper
+INFO - 2023-10-06 07:30:54 --> Form Validation Class Initialized
+INFO - 2023-10-06 07:30:54 --> Controller Class Initialized
+INFO - 2023-10-06 07:30:54 --> Model "Global_Model" initialized
+INFO - 2023-10-06 07:30:54 --> Final output sent to browser
+DEBUG - 2023-10-06 07:30:54 --> Total execution time: 0.1007
